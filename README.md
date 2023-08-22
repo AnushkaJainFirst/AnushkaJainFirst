@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnushkaJainFirst
-- 👀 I’m always eager to help others n currently running a community named "B.Tech Crux" in my college to help my juniors n my current batchmates wih notes, mentorship, updates; etc
+- 👀 I’m always eager to help others n currently running a community named "B.Tech Crux" in my college to help my juniors n my current batchmates wih notes, mentorship, updates; etc for free!
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on open-source projects
 
